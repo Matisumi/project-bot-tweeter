@@ -26,6 +26,8 @@ $client = Twitter::REST::Client.new do |config|
 end
 #p client
 
+client.update('Bonjour monde !')
+
 =begin
 topics = ["overwatch"]      #setting an interesting topic
 $client_stream.filter(track: topics.join(",")) do |object| #listen and stream tweets containing the word(s) set in the topic var

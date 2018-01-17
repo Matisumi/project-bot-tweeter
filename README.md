@@ -5,21 +5,30 @@ Repo for THP's twittbot ex
 ------------------
 
 
-*what it does ?*
-
-by default botty harass poor journalists by liking their last 20 tweets
-(and some dude added at the end of the list :* ) 
+_what it does ?_
 
 
-*okay and what else ?*
+by default botty tweet a "Bonjour monde !"
+by default 
+
+
+_okay and what else ?_
 
 
 
 well ....
-if you uncomment the function right before and set the topic variable to something you like (yes I like overwatch so what ? :p) it will listen to the tweets that have this word(s) in it :)
+if you uncomment the function right after and set the topic variable to something you like (yes I like overwatch so what ? :p) it will listen to the tweets that have this word(s) in it :)
 
-(to do so add `#` to line 29 & 35)
+(to do so add `#` to lines 31 & 37)
 
+
+--
+
+and at last, on the last comemnt, botty harass poor journalists by liking their last 20 tweets
+(and some dude added at the end of the list :* ) 
+
+
+(add `#` to lines 41 & 64)
 
 *WTF can't run your program and wtf are `arg_arr` ?*
 
