@@ -3,6 +3,8 @@ Repo for THP's twittbot ex
 
 Mati twitter bot
 
+
+
 what it does ?
 
 by default botty harass poor journalists by liking their last 20 tweets
@@ -25,7 +27,7 @@ indeed in order to make the botty work you need to insert your own keys
 you can do it when you run the program like this :
 
 
-rb botty.rb jxkjifwjefo-key1 kfldhfikqhw-key2 fkldsjfklwef-key3 jcwdljfijwaif-key4
+```rb botty.rb jxkjifwjefo-key1 kfldhfikqhw-key2 fkldsjfklwef-key3 jcwdljfijwaif-key4```
 
 of course replace the keys here by your own consumer_key then consumer_secret_key then access_token then acess_token_secret 
 exclusively in that order
