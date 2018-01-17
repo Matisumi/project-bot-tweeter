@@ -9,15 +9,16 @@ _what it does ?_
 
 
 by default botty tweet a "Bonjour monde !"
-by default 
+!! please ensure that your twitter account doesnt already have a tweet saying "Bonjour monde !" or it will consider your tweet as a sending error and wont add it to your pannel!!
 
 
 _okay and what else ?_
 
 
 
-well ....
-if you uncomment the function right after and set the topic variable to something you like (yes I like overwatch so what ? :p) it will listen to the tweets that have this word(s) in it :)
+well .... if you don't mind commenting line 29 with a `#` :)
+
+if you uncomment the function right after and set the topic variable to something you like, it will listen to the tweets that have this word(s) in it :)
 
 (to do so add `#` to lines 31 & 37)
 
@@ -30,7 +31,7 @@ and at last, on the last comemnt, botty harass poor journalists by liking their 
 
 (add `#` to lines 41 & 64)
 
-*WTF can't run your program and wtf are `arg_arr` ?*
+_WTF can't run your program and wtf are `arg_arr` ?_
 
 
 
